@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ef9264e-29d7-4e94-8118-5fbc7d9d1bf4" name="Changes" comment="Genérico" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ronniwhy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ronniwhy/PracticingPython1.git",
+    "accountId": "be4a9331-1bdc-4f97-96ae-29f4fe8b599d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gKXU8j5uRqeFtt61dOJN9Jb8aU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ronni/PycharmProjects/PracticingPython1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.ex032">
+    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex011.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PracticingPython1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex032.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex034.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex035.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex032" />
+        <item itemvalue="Python.ex011" />
+        <item itemvalue="Python.ex001" />
+        <item itemvalue="Python.ex035" />
+        <item itemvalue="Python.ex034" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef9264e-29d7-4e94-8118-5fbc7d9d1bf4" name="Changes" comment="" />
+      <created>1715447257091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715447257091</updated>
+      <workItem from="1715447260164" duration="4843000" />
+      <workItem from="1715453316754" duration="20000" />
+      <workItem from="1715454549807" duration="1221000" />
+      <workItem from="1715534270447" duration="10524000" />
+      <workItem from="1715546505356" duration="1625000" />
+      <workItem from="1715629661357" duration="4645000" />
+      <workItem from="1715649879124" duration="315000" />
+      <workItem from="1715696351905" duration="9429000" />
+      <workItem from="1715723780891" duration="2128000" />
+      <workItem from="1715790007441" duration="2160000" />
+      <workItem from="1715876455579" duration="5088000" />
+      <workItem from="1715898773518" duration="1019000" />
+      <workItem from="1715972769564" duration="3183000" />
+      <workItem from="1716051818697" duration="1084000" />
+      <workItem from="1716136795464" duration="871000" />
+      <workItem from="1716139425286" duration="416000" />
+      <workItem from="1716157956051" duration="2412000" />
+      <workItem from="1716224382301" duration="1200000" />
+      <workItem from="1716284290642" duration="111000" />
+      <workItem from="1716285495671" duration="16000" />
+      <workItem from="1716285518453" duration="618000" />
+      <workItem from="1716286786646" duration="16000" />
+      <workItem from="1716287203390" duration="32000" />
+      <workItem from="1716287244882" duration="14000" />
+      <workItem from="1716287292032" duration="5000" />
+      <workItem from="1716287335003" duration="33000" />
+      <workItem from="1716287377965" duration="178000" />
+      <workItem from="1716287566371" duration="99000" />
+      <workItem from="1716287667400" duration="1629000" />
+    </task>
+    <task id="LOCAL-00001" summary="Programa que printa 'Olá, Mundo!'">
+      <option name="closed" value="true" />
+      <created>1716288100494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288100494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Programa que soma dois valores">
+      <option name="closed" value="true" />
+      <created>1716288199544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288199544</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Programa atualizado que soma dois valores">
+      <option name="closed" value="true" />
+      <created>1716288288421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288288421</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Programa que analisa alguma variável">
+      <option name="closed" value="true" />
+      <created>1716288447149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288447149</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Programa que verifica o número antecessor e sucessor de um outro número">
+      <option name="closed" value="true" />
+      <created>1716288522194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288522194</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Pulando linha">
+      <option name="closed" value="true" />
+      <created>1716288574480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288574480</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288621054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288621054</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288641021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288641021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288663896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288663896</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288674378</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288674378</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288768928</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288768928</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288780285</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288780285</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288790511</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288790511</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288806734</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288806734</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288820344</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288820344</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288856545</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288856545</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288878917</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288878917</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288903774</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288903774</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288916889</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288916889</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288935112</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288935112</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288945962</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288945962</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288959700</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288959700</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288969999</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288969999</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288978875</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288978875</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288987260</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288987260</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716288997514</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716288997514</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289014055</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289014055</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289023167</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289023167</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289044244</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289044244</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289054366</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289054366</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289062283</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289062283</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289081844</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289081844</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289090388</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289090388</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289296139</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289296139</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Genérico">
+      <option name="closed" value="true" />
+      <created>1716289307311</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1716289307311</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programa que printa 'Olá, Mundo!'" />
+    <MESSAGE value="Programa que soma dois valores" />
+    <MESSAGE value="Programa atualizado que soma dois valores" />
+    <MESSAGE value="Programa que analisa alguma variável" />
+    <MESSAGE value="Programa que verifica o número antecessor e sucessor de um outro número" />
+    <MESSAGE value="Pulando linha" />
+    <MESSAGE value="Genérico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Genérico" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1715539489236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1715452046002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex033.coverage" NAME="ex033 Coverage Results" MODIFIED="1715975815672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex030.coverage" NAME="ex030 Coverage Results" MODIFIED="1715975061560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1715542874392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1716284372912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex027.coverage" NAME="ex027 Coverage Results" MODIFIED="1715791604521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1715541349958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1715454835820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1715449179585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex034.coverage" NAME="ex034 Coverage Results" MODIFIED="1716158134543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex031.coverage" NAME="ex031 Coverage Results" MODIFIED="1715975284971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex028.coverage" NAME="ex028 Coverage Results" MODIFIED="1715973221498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex022.coverage" NAME="ex022 Coverage Results" MODIFIED="1715704834594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex019.coverage" NAME="ex019 Coverage Results" MODIFIED="1715697379251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1715546585756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex025.coverage" NAME="ex025 Coverage Results" MODIFIED="1715726922327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1715726636122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1715697612187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1715974509313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1715541938410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex026.coverage" NAME="ex026 Coverage Results" MODIFIED="1715790568259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1715541171880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1715543308678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1715630804733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1715883614287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1715540501867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex015.coverage" NAME="ex015 Coverage Results" MODIFIED="1715543315245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1715696656537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex024.coverage" NAME="ex024 Coverage Results" MODIFIED="1715726783921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticingPython1$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1716289272689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1715539296905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex035.coverage" NAME="ex035 Coverage Results" MODIFIED="1716159782355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProjectMundo1$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1716287223983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1715450877811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1715699079486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ex012.coverage" NAME="ex012 Coverage Results" MODIFIED="1715542715880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
